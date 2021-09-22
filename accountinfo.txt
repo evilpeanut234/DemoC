@@ -1,0 +1,17 @@
+nam 6
+trannamI am writing to a file opened from program.
+I am writing to a file opened from program.
+trannamanh 123456
+tranbaoanh 123456 13/25/1996 nghe
+tranvana 123456 13/122/1998 ha noi
+tranbaoa tran van the 13/15/1999 hanoi3
+tranvanbi tran van bi 113/16/1999 nghe an
+travnvanbi2 tran van bi 15/16/1998 nghe an
+travnvanbi3 tran van bi 15/12/1998 ha noi 3
+tranthe tran van the 13/15/1998 nghe an
+tranvanbjim tran van jim 13/16/1999 nghe an
+tranvanb tran van b 15/16/1998 nghe an 3
+tranvanby tran van by a a
+tranthethe tran the the a o
+yingying tran van ying 15/12/1997 nghe an
+tranbinz tran binz 15/06/1997 nghe an 3

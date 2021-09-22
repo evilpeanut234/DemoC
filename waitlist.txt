@@ -1,0 +1,5 @@
+tran 1 2
+tranthe 2 1
+tranthe 4 3
+nam1 3 3
+tranbinz 3 3

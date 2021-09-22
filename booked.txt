@@ -1,0 +1,12 @@
+tran 2 1
+tran 148 2
+Banana 2 1
+hajim 2 3
+haanh 6 2
+namsim 3 1
+nam1 2 3
+tranthethe 2 2
+tranthe 2 2
+tranthe 2 3
+nam1 3 3
+tranbinz 133 3
